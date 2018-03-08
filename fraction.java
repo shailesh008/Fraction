@@ -1,5 +1,3 @@
-package fraction;
-
 public class Fraction {
 
     public int num;
